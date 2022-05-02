@@ -10,6 +10,7 @@ img {
 body {
   width: 100vw;
   background-color: var(--bg-colour);
+  overflow-x: hidden;
 }
 body .wrapper {
   margin: 0%;
