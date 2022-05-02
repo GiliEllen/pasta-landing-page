@@ -10,14 +10,14 @@ img {
 body {
     width: 100vw;
     background-color: var(--bg-colour);
-    overflow-x: hidden;
+    overflow: hidden;
     .wrapper {
         margin: 0%;
         padding: 0%;
         font-family: 'Mukta', sans-serif;
         width: 100vw;
         height: 100vh;
-        overflow-x: hidden;
+        overflow: hidden;
         background-color: var(--bg-colour);
 
         header {
